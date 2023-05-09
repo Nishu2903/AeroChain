@@ -2,14 +2,14 @@
 AEROCHAIN BAG TRACKING, BAGGAGE TRACIKING, LUGGAGE TRACKING, BLOCKCHAIN 
 
 **Requirements**
--Node Package Manager (npm)
--All npm requirements are listed in package.json
--NPM dependencies:
--Truffle
--Ganache
--Web3.js
--Metamask
--Solidity
+*Node Package Manager (npm)
+*All npm requirements are listed in package.json
+*NPM dependencies:
+*Truffle
+8Ganache
+*Web3.js
+*Metamask
+*Solidity
 
 
 Installation
